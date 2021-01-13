@@ -1,7 +1,7 @@
-# Toxic Soup | 毒雞湯
+# beautiful_words | 🙈土味情话
 
 <p align="center">
-  <img src="beautiful_word.png" alt="Chengyu">
+  <img src="soup.png" alt="Chengyu">
 </p>
 
 【你为什么天天打我？我什么时候打你了？你明明打动了我的心。？会啊。那就好，我们马上要坠入爱河了。】

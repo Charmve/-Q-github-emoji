@@ -12,7 +12,33 @@
  🌴/   🚖      |         \🌲 👫
  
 ```
+</div>
 
+## Toxic Soup | 😵 毒雞湯
+<table>
+   <tr>
+      <td>【有的人穷的以为时候有钱会很快乐，等他真的有钱了，才发现有钱确实很快乐】
+   </tr>
+   <tr>
+      <td>🈶🉐👨穷🉐以为🔟候🈶💰会很🥢😁，等他💉🉐🈶💰了，才发现🈶💰确实很🥢😁
+   </tr>
+</table>
+
+--> [<b>Link</b>](toxic_soup.md)
+
+## beautiful_words | 🙈 土味情話
+<table>
+   <tr>
+      <td>【你为什么天天打我？我什么时候打你了？你明明打动了我的心。？会啊。那就好，我们马上要坠入爱河了。】
+   </tr>
+   <tr>
+      <td>你为什么天天打🐌❓🐌什么🔟候打你了❓你明明打动了🐌🉐🤍。❓会啊。那就好，🐌🚪🐎👆🔑坠入爱河了。
+   </tr>
+</table>
+
+--> [<b>Link</b>](beautiful_words.md)
+
+<div align="center">
 # Github Emoji
 </div>
 

@@ -16,7 +16,7 @@
 
 <div align="center">
    
-# Github Emoji
+# GitHub Emoji
 
 </div>
 
